@@ -6,11 +6,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.View;
-import android.widget.LinearLayout;
 import android.widget.Button;
-import android.widget.TextView;
 
 import org.ninehells.angrypipes.Game;
 import org.ninehells.angrypipes.Settings;
